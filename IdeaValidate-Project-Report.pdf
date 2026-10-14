@@ -1,0 +1,165 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 3 /Kids [6 0 R 8 0 R 10 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Length 4296 >>
+stream
+0.09 0.34 0.28 rg 56 758 500 5 re f
+BT /F2 25 Tf 56 710 Td (IdeaValidate) Tj ET
+BT /F1 11 Tf 56 690 Td (Beginner-friendly prototype guide and project report) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 656 Td (1. Project overview) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 636 Td (IdeaValidate is a browser-based prototype that helps people think through a business idea) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 622 Td (before investing significant time or money. It guides users through questions about the) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 608 Td (customer problem, market, competitors, financial estimates, and readiness to test. It then) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 594 Td (creates a transparent self-assessment report with risks and suggested next steps.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 575 Td (2. Who it is for) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 555 Td (Aspiring entrepreneurs, students, and small business owners who want a structured starting) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 541 Td (point for examining an idea. It is an educational planning aid, not a guarantee that a) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 527 Td (business will succeed.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 508 Td (3. How to use the app) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 488 Td (1\) Start an assessment from Home or choose a fictional sample idea.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 474 Td (2\) Describe the idea, category, target market, and current stage.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 460 Td (3\) Explain the customer problem, who experiences it, and what they do today. Add research and) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 446 Td (interview counts when available.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 432 Td (4\) List competitors or alternatives, estimate the potential market, and describe what makes) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 418 Td (the idea different. Unknown research can be left blank and will be flagged.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 404 Td (5\) Enter a currency, selling price, variable cost per sale, monthly fixed costs, expected) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 390 Td (monthly sales, and optional initial investment.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 376 Td (6\) Rate five readiness criteria from 1 to 5. These are your own ratings, not independently) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 362 Td (verified facts.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 348 Td (7\) Review the answers and generate the assessment report. You can edit it later.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 334 Td (8\) Duplicate a report to create a version, compare up to three ideas, export a report as JSON,) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 320 Td (or print/save the report as PDF.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 306 Td (9\) To restore a report, open My Reports and choose Import JSON. Invalid files are rejected. If) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 292 Td (an ID is already saved, import as a separate copy or cancel; the existing report is never) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 278 Td (overwritten.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 259 Td (4. Readiness score) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 239 Td (The app uses five weighted criteria. Each rating is from 1 to 5. An unrated item counts as) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 225 Td (zero and marks the report incomplete.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 206 Td (Scoring criteria and weights) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 186 Td (Problem clarity: 20%) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 172 Td (Customer-demand evidence: 25%) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 158 Td (Competitive differentiation: 20%) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 144 Td (Financial feasibility: 20%) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 130 Td (Readiness to test: 15%) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 111 Td (Scoring formula) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 91 Td (Score = sum of \(criterion weight x rating / 5\) x 100. The weighted contributions are added to) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 77 Td (produce a score from 0 to 100. For example, ratings of 4, 3, 3, 3, and 4 produce 67/100.) Tj ET
+0.35 0.38 0.42 rg BT /F1 8 Tf 500 32 Td (Page 1 of 3) Tj ET
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 5 0 R >>
+endobj
+7 0 obj
+<< /Length 5029 >>
+stream
+0.09 0.34 0.28 rg 56 758 500 2 re f
+BT /F2 9 Tf 56 744 Td (IDEAVALIDATE  |  PROTOTYPE PROJECT REPORT) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 738 Td (Score bands) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 718 Td (0-39: Major assumptions to investigate.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 704 Td (40-59: Early-stage idea; more validation needed.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 690 Td (60-79: Promising areas; test remaining risks.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 676 Td (80-100: Strong preparation; verify assumptions with real customers.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 662 Td (These labels describe preliminary readiness based on user inputs. They are not the probability) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 648 Td (of success.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 629 Td (5. Financial calculator) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 609 Td (Monthly revenue = selling price x monthly sales.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 595 Td (Contribution per sale = selling price - variable cost per sale.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 581 Td (Estimated monthly operating profit = contribution per sale x monthly sales - monthly fixed) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 567 Td (costs.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 553 Td (Break-even sales = monthly fixed costs / contribution per sale, rounded up, when contribution) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 539 Td (is positive.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 525 Td (Initial investment is shown separately and is not deducted from the monthly operating profit.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 506 Td (Financial example) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 486 Td (Using price Rs 120, variable cost Rs 85, fixed costs Rs 6,000/month, and 220 monthly sales:) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 472 Td (revenue is Rs 26,400/month; contribution is Rs 35/sale; estimated operating profit is Rs) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 458 Td (1,700/month; break-even volume is 172 sales/month. These simplified estimates exclude costs) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 444 Td (such as taxes, financing, and seasonality.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 425 Td (6. Recommendations and report) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 405 Td (Recommendations are produced by explicit rules, not AI. Examples: weak demand evidence) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 391 Td (suggests customer interviews; missing competitor research prompts competitor research; zero or) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 377 Td (negative contribution flags pricing/cost concerns; and break-even above estimated sales flags) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 363 Td (a feasibility gap. The report groups findings into strengths, risks, missing research, and) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 349 Td (recommended next steps.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 330 Td (7. Other prototype features) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 310 Td (Sample gallery: fictional ideas for exploring the workflow.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 296 Td (Dashboard and reports: browser-local summaries, search, and category filtering.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 282 Td (Scenario comparison: temporarily adjust price, sales, and fixed costs for up to three saved) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 268 Td (ideas without changing saved reports.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 254 Td (Duplicate/version: make a separate local copy of an assessment.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 240 Td (JSON export/import: manually back up and restore a report.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 226 Td (Print: use the browser print dialog to print or save a report as PDF.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 212 Td (Theme: switch between light and dark appearance.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 193 Td (8. Technology and data) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 173 Td (The project uses React, TypeScript, TanStack Start/Router, Vite, Tailwind CSS, and Recharts.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 159 Td (Saved reports are stored in browser localStorage. There is no backend or account system. Data) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 145 Td (does not automatically sync across browsers or devices, and clearing browser data may delete) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 131 Td (saved reports. JSON export/import provides a manual backup method.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 112 Td (9. Limitations) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 92 Td (Scores depend on user-provided answers and self-assessment ratings. The scoring model is a) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 78 Td (simple guide and has not been established as a scientific predictor of business success.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 64 Td (Financial calculations are simplified. Sample ideas are fictional examples and must not be) Tj ET
+0.35 0.38 0.42 rg BT /F1 8 Tf 500 32 Td (Page 2 of 3) Tj ET
+endstream
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 7 0 R >>
+endobj
+9 0 obj
+<< /Length 2122 >>
+stream
+0.09 0.34 0.28 rg 56 758 500 2 re f
+BT /F2 9 Tf 56 744 Td (IDEAVALIDATE  |  PROTOTYPE PROJECT REPORT) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 738 Td (presented as actual research. This prototype is not a production multi-user service.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 719 Td (10. Suggested five-minute demo) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 699 Td (1\) Introduce IdeaValidate as a tool for structuring early-stage idea evaluation.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 685 Td (2\) Load a fictional sample or enter an idea.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 671 Td (3\) Walk through the wizard and explain that ratings are self-assessments.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 657 Td (4\) Show the report, score, risks, and one suggested action.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 643 Td (5\) Open Compare and change financial assumptions to demonstrate how estimates respond.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 629 Td (6\) Demonstrate JSON export and import.) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 615 Td (7\) Close by explaining the browser-only storage and simplified model limitations.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 596 Td (11. Verification status) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 576 Td (At the time of this report, all 13 automated tests passed, TypeScript validation passed,) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 562 Td (focused lint checks for the import feature passed, and the production build succeeded. The) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 548 Td (build emits a non-blocking notice that the Vite tsconfig-paths plugin may be redundant.) Tj ET
+0.09 0.34 0.28 rg BT /F2 14 Tf 56 529 Td (Summary) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 509 Td (IdeaValidate helps users organize assumptions, examine basic business economics, and identify) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 495 Td (what to investigate next. Treat its output as a starting point for learning and customer) Tj ET
+0.12 0.15 0.18 rg BT /F1 10 Tf 56 481 Td (research, not as investment or business advice.) Tj ET
+0.35 0.38 0.42 rg BT /F1 8 Tf 500 32 Td (Page 3 of 3) Tj ET
+endstream
+endobj
+10 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R >>
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000134 00000 n 
+0000000204 00000 n 
+0000000279 00000 n 
+0000004627 00000 n 
+0000004763 00000 n 
+0000009844 00000 n 
+0000009980 00000 n 
+0000012154 00000 n 
+trailer
+<< /Size 11 /Root 1 0 R >>
+startxref
+12291
+%%EOF
