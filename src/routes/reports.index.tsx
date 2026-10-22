@@ -27,12 +27,12 @@ import { parseIdeaJson, type ImportedIdea } from "@/lib/import-export";
 export const Route = createFileRoute("/reports/")({
   head: () => ({
     meta: [
-      { title: "My Reports — IdeaValidate" },
+      { title: "My Reports — Startup Idea Validator" },
       {
         name: "description",
         content: "Search, open, edit and delete your saved business idea assessments.",
       },
-      { property: "og:title", content: "My Reports — IdeaValidate" },
+      { property: "og:title", content: "My Reports — Startup Idea Validator" },
       { property: "og:description", content: "All your saved idea assessments in one place." },
     ],
   }),

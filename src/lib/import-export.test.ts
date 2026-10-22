@@ -20,7 +20,7 @@ describe("JSON report import", () => {
       parseIdeaJson(JSON.stringify({ ...sample, ratings: { ...sample.ratings, demand: 8 } })),
     ).toThrow("ratings.demand");
     expect(() => parseIdeaJson(JSON.stringify({ ...sample, unexpected: true }))).toThrow(
-      "not a valid IdeaValidate report",
+      "not a valid Startup Idea Validator report",
     );
   });
 

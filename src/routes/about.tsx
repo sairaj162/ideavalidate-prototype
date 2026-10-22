@@ -5,17 +5,17 @@ import { PageHeader } from "@/components/SiteHeader";
 export const Route = createFileRoute("/about")({
   head: () => ({
     meta: [
-      { title: "About IdeaValidate" },
-      { name: "description", content: "Learn about IdeaValidate’s purpose, approach, limitations and future possibilities." },
-      { property: "og:title", content: "About IdeaValidate" },
-      { property: "og:description", content: "The purpose, approach, limitations and future scope of IdeaValidate." },
+      { title: "About Startup Idea Validator" },
+      { name: "description", content: "Learn about Startup Idea Validator’s purpose, approach, limitations and future possibilities." },
+      { property: "og:title", content: "About Startup Idea Validator" },
+      { property: "og:description", content: "The purpose, approach, limitations and future scope of Startup Idea Validator." },
     ],
   }),
   component: About,
 });
 
 const SECTIONS: { title: string; items: string[] | string }[] = [
-  { title: "Purpose", items: "IdeaValidate helps aspiring entrepreneurs think through a business idea before investing significant time or money. It provides a structured way to consider the problem, customer demand, competition and basic finances." },
+  { title: "Purpose", items: "Startup Idea Validator helps aspiring entrepreneurs think through a business idea before investing significant time or money. It provides a structured way to consider the problem, customer demand, competition and basic finances." },
   { title: "Why validate first?", items: "Aspiring entrepreneurs often invest time and money in ideas without structured validation of the problem, demand, competition and finances. Many lack access to simple, free tools that guide them through this thinking." },
   { title: "What it helps you do", items: [
     "Provide a free, structured, step-by-step idea validation workflow.",
@@ -41,7 +41,7 @@ const SECTIONS: { title: string; items: string[] | string }[] = [
 function About() {
   return (
     <div className="mx-auto max-w-4xl px-4 py-12">
-      <PageHeader title="About IdeaValidate" subtitle="A practical starting point for evaluating and improving business ideas." />
+      <PageHeader title="About Startup Idea Validator" subtitle="A practical starting point for evaluating and improving business ideas." />
       <div className="space-y-5">
         {SECTIONS.map((s) => (
           <Card key={s.title} className="p-6 shadow-card">

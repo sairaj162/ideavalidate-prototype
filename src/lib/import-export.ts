@@ -77,12 +77,12 @@ export function parseIdeaJson(json: string): ImportedIdea {
   const result = ideaSchema.safeParse(value);
   if (!result.success) {
     const issue = result.error.issues[0];
-    if (!issue) throw new Error("This file is not a valid IdeaValidate report.");
+    if (!issue) throw new Error("This file is not a valid Startup Idea Validator report.");
     const field = issue.path.join(".");
     throw new Error(
       field
         ? `Invalid report data at “${field}”: ${issue.message}.`
-        : "This file is not a valid IdeaValidate report.",
+        : "This file is not a valid Startup Idea Validator report.",
     );
   }
   const { versionOf, ...idea } = result.data;

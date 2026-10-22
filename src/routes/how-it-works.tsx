@@ -7,9 +7,9 @@ import { CRITERIA } from "@/lib/scoring";
 export const Route = createFileRoute("/how-it-works")({
   head: () => ({
     meta: [
-      { title: "How It Works — IdeaValidate" },
-      { name: "description", content: "How IdeaValidate scores business ideas: weighted criteria, financial formulas and rule-based recommendations." },
-      { property: "og:title", content: "How It Works — IdeaValidate" },
+      { title: "How It Works — Startup Idea Validator" },
+      { name: "description", content: "How Startup Idea Validator scores business ideas: weighted criteria, financial formulas and rule-based recommendations." },
+      { property: "og:title", content: "How It Works — Startup Idea Validator" },
       { property: "og:description", content: "Transparent scoring formula and financial calculations explained." },
     ],
   }),

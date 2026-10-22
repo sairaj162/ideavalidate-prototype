@@ -4,7 +4,11 @@
 
 @custom-variant dark (&:is(.dark *));
 
-/* IdeaValidate design system: light SaaS surfaces, navy text, emerald actions. */
+iframe#nl-badge-frame {
+  display: none !important;
+}
+
+/* Startup Idea Validator design system: light SaaS surfaces, navy text, emerald actions. */
 
 @theme inline {
   --font-sans: "Manrope", ui-sans-serif, system-ui, sans-serif;

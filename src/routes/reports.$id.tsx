@@ -9,9 +9,9 @@ import { useIdeas } from "@/lib/storage";
 export const Route = createFileRoute("/reports/$id")({
   head: () => ({
     meta: [
-      { title: "Assessment Report — IdeaValidate" },
+      { title: "Assessment Report — Startup Idea Validator" },
       { name: "description", content: "Readiness score, risks, missing research and financial summary for a business idea." },
-      { property: "og:title", content: "Assessment Report — IdeaValidate" },
+      { property: "og:title", content: "Assessment Report — Startup Idea Validator" },
       { property: "og:description", content: "A preliminary readiness report for a business idea." },
     ],
   }),

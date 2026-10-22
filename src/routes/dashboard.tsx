@@ -16,9 +16,9 @@ import { useIdeas } from "@/lib/storage";
 export const Route = createFileRoute("/dashboard")({
   head: () => ({
     meta: [
-      { title: "Dashboard — IdeaValidate" },
+      { title: "Dashboard — Startup Idea Validator" },
       { name: "description", content: "Overview of all assessed business ideas, average scores and category breakdown." },
-      { property: "og:title", content: "Dashboard — IdeaValidate" },
+      { property: "og:title", content: "Dashboard — Startup Idea Validator" },
       { property: "og:description", content: "Stats and charts calculated from your saved assessments." },
     ],
   }),

@@ -24,9 +24,9 @@ export const Route = createFileRoute("/validate")({
   }),
   head: () => ({
     meta: [
-      { title: "Validate Your Business Idea — IdeaValidate" },
+      { title: "Validate Your Business Idea — Startup Idea Validator" },
       { name: "description", content: "Step-by-step wizard to describe, rate and assess your business idea." },
-      { property: "og:title", content: "Validate Your Business Idea — IdeaValidate" },
+      { property: "og:title", content: "Validate Your Business Idea — Startup Idea Validator" },
       { property: "og:description", content: "Answer five short steps and get a readiness report." },
     ],
   }),

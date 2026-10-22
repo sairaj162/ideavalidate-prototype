@@ -14,7 +14,7 @@ import type { Idea } from "@/lib/types";
 export const Route = createFileRoute("/compare")({
   head: () => ({
     meta: [
-      { title: "Compare Scenarios — IdeaValidate" },
+      { title: "Compare Scenarios — Startup Idea Validator" },
       {
         name: "description",
         content: "Compare business ideas and adjust financial assumptions locally.",

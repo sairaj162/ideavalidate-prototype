@@ -5,9 +5,9 @@ import { PageHeader } from "@/components/SiteHeader";
 export const Route = createFileRoute("/privacy")({
   head: () => ({
     meta: [
-      { title: "Privacy Notice — IdeaValidate" },
-      { name: "description", content: "IdeaValidate stores saved ideas only in your browser's localStorage." },
-      { property: "og:title", content: "Privacy Notice — IdeaValidate" },
+      { title: "Privacy Notice — Startup Idea Validator" },
+      { name: "description", content: "Startup Idea Validator stores saved ideas only in your browser's localStorage." },
+      { property: "og:title", content: "Privacy Notice — Startup Idea Validator" },
       { property: "og:description", content: "Your data stays in your browser." },
     ],
   }),

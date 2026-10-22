@@ -8,9 +8,9 @@ import { getSampleIdeas } from "@/lib/samples";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "IdeaValidate — Turn Your Business Idea Into a Validated Opportunity" },
+      { title: "Startup Idea Validator — Turn Your Business Idea Into a Validated Opportunity" },
       { name: "description", content: "Evaluate your business concept, uncover weaknesses and assess financial feasibility before investing time and money." },
-      { property: "og:title", content: "IdeaValidate — Business Idea Validator" },
+      { property: "og:title", content: "Startup Idea Validator — Business Idea Validator" },
       { property: "og:description", content: "Score your idea's readiness, spot risks and get rule-based next steps." },
     ],
   }),
@@ -38,7 +38,7 @@ function Home() {
         <div className="mx-auto grid max-w-6xl items-center gap-12 px-4 py-16 md:py-24 lg:grid-cols-2">
           <div>
             <h1 className="mt-5 text-4xl font-semibold leading-tight md:text-5xl">
-              Turn Your Business Idea Into a Validated Opportunity.
+              Validate Your Startup Idea Before You Invest.
             </h1>
             <p className="mt-5 max-w-xl text-lg text-muted-foreground">
               Evaluate your business concept, uncover weaknesses, assess financial feasibility, and discover the next

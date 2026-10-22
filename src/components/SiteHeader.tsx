@@ -40,7 +40,7 @@ export function SiteHeader() {
               <Check className="absolute top-1 size-2.5 stroke-[3]" />
             </span>
           </span>
-          IdeaValidate
+          Startup Idea Validator
         </Link>
         <nav className="hidden items-center gap-1 lg:flex" aria-label="Main">
           {NAV.map((n) => (
@@ -93,7 +93,7 @@ export function SiteFooter() {
     <footer className="mt-20 border-t bg-card print:hidden">
       <div className="mx-auto grid max-w-6xl gap-6 px-4 py-10 md:grid-cols-2">
         <div>
-          <p className="font-display font-semibold">IdeaValidate — Business Idea Validator</p>
+          <p className="font-display font-semibold">Startup Idea Validator</p>
           <p className="mt-2 max-w-md text-sm text-muted-foreground">
             This frontend prototype stores saved ideas in the browser's localStorage. Data is not uploaded to a server.
             Clearing browser data may delete saved records.
